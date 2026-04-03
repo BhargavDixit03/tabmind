@@ -1,16 +1,58 @@
-# React + Vite
+🚀 TabMind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Save links, remember why, and declutter your mind.
 
-Currently, two official plugins are available:
+TabMind is a simple and powerful web app that helps you save important links along with the reason for saving them and reminds you at the right time. It’s designed to reduce tab clutter and improve productivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
+🔗 Save any URL quickly
+🧠 Add a reason/notes for each saved link
+⏰ Set reminders (e.g., tomorrow at 9 AM)
+📌 View all saved links in a clean dashboard
+🔴 "Due Now" indicator for pending tasks
+✅ Mark tasks as completed
+🗑️ Delete saved links easily
+📸 Preview
 
-## React Compiler
+(Add your screenshots here)
+Example:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript (or React if you used it)
+Backend: (Mention if used, e.g., Node.js / Firebase)
+Storage: (LocalStorage / Database)
+📂 Project Structure
+TabMind/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── README.md
+⚙️ How It Works
+Enter a URL you want to save
+(Optional) Add a title
+Write why you are saving it
+Set a reminder
+Click "Save to TabMind"
+Get reminded and stay productive 🚀
+🎯 Use Cases
+Save learning resources (like LeetCode, YouTube tutorials)
+Track daily goals (e.g., coding practice)
+Avoid opening too many browser tabs
+Improve focus and productivity
+🚧 Future Improvements
+🔔 Notification system
+☁️ Cloud sync (login system)
+📱 Mobile responsive improvements
+📊 Analytics for productivity tracking
+🤝 Contributing
 
-## Expanding the ESLint configuration
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📬 Contact
+LinkedIn: (Add your link here)
+GitHub: (Your GitHub profile link)
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
